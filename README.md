@@ -1,7 +1,7 @@
 # yonda-books
 読んだ本の記録
 
-## 9割読んだ
+## ９割読んだ
 
 
 ### 代数学入門
@@ -10,7 +10,7 @@
 - **川口 周**
 - **メモ: 初心者向け．準同型定理　中国剰余定理**
 
-<img src="images/07574_1.jpg" alt="表紙" width="150"/>
+<img src="images/07574_1.jpg" alt="表紙" width="250"/>
 
 
 ## 半分読んだ
@@ -21,7 +21,7 @@
 - **桂 利行**
 - **メモ: ガロアの基本定理**
 
-<img src="images/ef3f9b3d-2682-4c96-9d89-ae184df85181.jpg" alt="表紙" width="150">
+<img src="images/ef3f9b3d-2682-4c96-9d89-ae184df85181.jpg" alt="表紙" width="250">
 
 
 ### ゼロから作るDeep Learning
@@ -31,4 +31,24 @@
 - **メモ: AI**
 
 
-<img src="images/images.png" width="150">
+<img src="images/images.png" width="250">
+
+## ３割読んだ
+
+### 線形代数学
+
+- **培風館**
+- **三宅 敏恒**
+- **メモ: 掃き出し法**
+
+<img src="images/0016082487LL.jpg" width="250">
+
+## ながめた
+
+### 入門微分積分
+
+- **培風館**
+- **三宅 敏恒**
+- **メモ: おぼえてない**
+
+<img src="images/81Un+Jy-TkL._AC_UF1000,1000_QL80_.jpg" width="250">
